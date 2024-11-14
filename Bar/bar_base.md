@@ -16,5 +16,4 @@ c = (
 )
 
 ```
-<iframe width="100%" height="800px" src="https://himyl.github.io/visualization/bar_base.html"></iframe>
-
+<iframe width="100%" height="800px" src="Bar/bar_base.html"></iframe>
