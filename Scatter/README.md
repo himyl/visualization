@@ -1,0 +1,3 @@
+- [Scatter - Basic_scatter_chart](basic_scatter_chart.md ':type=code')
+- [Scatter - Scatter_visualmap_color](scatter_visualmap_color.md ':type=code')
+- [Scatter - Scatter_visualmap_size](scatter_visualmap_size.md ':type=code')
