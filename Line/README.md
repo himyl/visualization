@@ -1,4 +1,4 @@
-- [Line - Temperature_change_line_chart](Line/temperature_change_line_chart.md ':type=code')
+- [Line - Temperature_change_line_chart](temperature_change_line_chart.md ':type=code')
 - [Line - Line_areastyle_boundary_gap](Line/line_areastyle_boundary_gap.md ':type=code')
 - [Line - Basic_line_chart](Line/basic_line_chart.md ':type=code')
 - [Line - Line_connect_null](Line/line_connect_null.md ':type=code')
