@@ -2,4 +2,7 @@
 - [Bar - Bar_chart_display_delay](bar_chart_display_delay.md ':type=code')
 - [Bar - Bar_custom_bar_color](bar_custom_bar_color.md ':type=code')
 - [Bar - Bar_datazoom_slider](bar_datazoom_slider.md ':type=code')
+- [Bar - Bar_markpoint_type](bar_markpoint_type.md ':type=code')
+- [Bar - Bar_reversal_axis](bar_reversal_axis.md ':type=code')
 - [Bar - Bar_waterfall_plot](bar_waterfall_plot.md ':type=code')
+- [Bar - Mixed_bar_and_line](Bar/mixed_bar_and_line.md ':type=code')
