@@ -1,1 +1,3 @@
 - [Bar - Bar_base](bar_base.md ':type=code')
+- [Bar - Bar_datazoom_slider](bar_datazoom_slider.md ':type=code')
+- [Bar - Bar_waterfall_plot](bar_waterfall_plot.md ':type=code')
