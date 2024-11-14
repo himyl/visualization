@@ -1,3 +1,5 @@
 - [Bar - Bar_base](bar_base.md ':type=code')
+- [Bar - Bar_chart_display_delay](bar_chart_display_delay.md ':type=code')
+- [Bar - Bar_custom_bar_color](bar_custom_bar_color.md ':type=code')
 - [Bar - Bar_datazoom_slider](bar_datazoom_slider.md ':type=code')
 - [Bar - Bar_waterfall_plot](bar_waterfall_plot.md ':type=code')
