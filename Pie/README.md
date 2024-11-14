@@ -1,6 +1,5 @@
 - [Pie - Pie_set_color](pie_set_color.md ':type=code')
 - [Pie - Customized_pie](customized_pie.md ':type=code')
-- [Pie - Pie_rich_label](pie_rich_label.md ':type=code')
 - [Pie - Pie_position](pie_position.md ':type=code')
 - [Pie - Pie_scroll_legend](pie_scroll_legend.md ':type=code')
 - [Pie - Doughnut_chart](doughnut_chart.md ':type=code')
